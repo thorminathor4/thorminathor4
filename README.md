@@ -6,6 +6,7 @@ __School:__ Københavns Erhvervs Akademi (KEA) (Copenhagen Vocational Academy)<b
 __Completed__ Educations: Datamatiker (Computer Science AP), KEA, Aug 2020 - Jan 2023<br>
 __Current Education:__ Softwareudvikling (Software Development), KEA, Jan 2023 - Jun 2024<br>
 <br>
-__OS'es:__ (Current: MacOS)
+## OS'es:
+__Current:__ MacOS
 ![MacOS](https://shields.io/badge/MacOS--9cf?style=flat-square&logo=apple&&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
