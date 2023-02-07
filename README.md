@@ -22,7 +22,7 @@ __Completed__ Educations:
   - Computer Science AP
     - School: KEA (Københavns Erhvervs Akademi)
     - When: Aug 2020 - Jan 2023
-<br>
+
 __Current Education:__ Software Development
 - School: KEA (Københavns Erhvervs Akademi)
 - When: Jan 2023 - Jun 2024
