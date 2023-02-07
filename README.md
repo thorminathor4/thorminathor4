@@ -24,6 +24,8 @@ __Levels:__ Beginner, Advanced Beginner, Intermediate, Advanced, Expert
   <br>
 - __Beginner:__ <br>
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+    ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 
 ### Programming / Coding Languages & Frameworks:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thorminathor4&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
@@ -43,6 +45,10 @@ __Levels:__ Beginner, Advanced Beginner, Intermediate, Advanced, Expert
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- __Beginner:__ <br>
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Libraries & Platforms
 - __Advanced:__ <br>
