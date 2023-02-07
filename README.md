@@ -41,6 +41,8 @@ __Levels:__ Beginner, Advanced Beginner, Intermediate, Advanced, Expert
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Programming / Coding Languages:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thorminathor4&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
 - __Advanced:__ <br>
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
