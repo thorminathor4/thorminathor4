@@ -14,21 +14,6 @@ __Country:__ Denmark :denmark: (DK) <!--<br>
 [Test](/TEST.md)
 -->
 
-## Educations
-
-### Completed Educations:
-  - __Higher Technical Examination Programme (HTX) (Math, Physics, Electronics)__
-    - School: H. C. Ørsted Gymnasiet Lyngby
-    - When: Aug 2015 - Jun 2019 <br><br>
-  - __Computer Science AP__
-    - School: KEA (Københavns Erhvervs Akademi)
-    - When: Aug 2020 - Jan 2023
-
-### Current Education:
-  - __Software Development__
-    - School: KEA (Københavns Erhvervs Akademi)
-    - When: Jan 2023 - Jun 2024
-
 ## Experience
 __Levels:__ Beginner, Advanced Beginner, Intermediate, Advanced, Expert
 
@@ -90,6 +75,22 @@ __Levels:__ Beginner, Advanced Beginner, Intermediate, Advanced, Expert
   ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
   ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
   ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+
+
+## Educations
+
+### Completed Educations:
+  - __Higher Technical Examination Programme (HTX) (Math, Physics, Electronics)__
+    - School: H. C. Ørsted Gymnasiet Lyngby
+    - When: Aug 2015 - Jun 2019 <br><br>
+  - __Computer Science AP__
+    - School: KEA (Københavns Erhvervs Akademi)
+    - When: Aug 2020 - Jan 2023
+
+### Current Education:
+  - __Software Development__
+    - School: KEA (Københavns Erhvervs Akademi)
+    - When: Jan 2023 - Jun 2024
 
 ## Hobbies
 - Music Production :musical_note:
