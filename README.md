@@ -6,6 +6,8 @@ __Birthday:__ 9th August 1998 (09-08-1998) (Gen-Z aka Zoomer) <br>
 __Zodiac:__ Leo :leo: <br>
 __City:__ Kongens Lyngby (Greater Copenhagen) <br>
 __Country:__ Denmark :denmark: (DK) <br>
+<br>
+(#Education) (#Experience) (#Hobbies)
 
 ## Education
 __School:__ KEA (Københavns Erhvervs Akademi) <br>
