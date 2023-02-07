@@ -7,7 +7,9 @@ __Zodiac:__ Leo :leo: <br>
 __City:__ Kongens Lyngby (Greater Copenhagen) <br>
 __Country:__ Denmark :denmark: (DK) <br>
 <br>
-(#Education) (#Experience) (#Hobbies)
+[Education](https://github.com/thorminathor4/thorminathor4/edit/main/README.md#Education)
+[Experience](https://github.com/thorminathor4/thorminathor4/edit/main/README.md#Experience)
+[Hobbies](https://github.com/thorminathor4/thorminathor4/edit/main/README.md#Hobbies)
 
 ## Education
 __School:__ KEA (Københavns Erhvervs Akademi) <br>
