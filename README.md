@@ -7,9 +7,9 @@ __Zodiac:__ Leo :leo: <br>
 __City:__ Kongens Lyngby (Greater Copenhagen) <br>
 __Country:__ Denmark :denmark: (DK) <br>
 <br>
-[Education](/#Education)
-[Experience](/#Experience)
-[Hobbies](/#Hobbies)
+[Education](./#Education)
+[Experience](./#Experience)
+[Hobbies](./#Hobbies)
 
 ## Education
 __School:__ KEA (Københavns Erhvervs Akademi) <br>
