@@ -24,8 +24,8 @@ __Completed__ Educations:
     - When: Aug 2020 - Jan 2023
 
 __Current Education:__ Software Development
-  -- School: KEA (Københavns Erhvervs Akademi)
-  -- When: Jan 2023 - Jun 2024
+  - School: KEA (Københavns Erhvervs Akademi)
+  - When: Jan 2023 - Jun 2024
 
 ## Experience
 __Levels:__ Beginner, Advanced Beginner, Intermediate, Advanced, Expert
