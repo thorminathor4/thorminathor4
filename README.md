@@ -15,7 +15,7 @@ __Country:__ Denmark :denmark: (DK) <!--<br>
 
 ## Educations
 __Completed__ Educations:
-  - Higher Technical Examination Programme (Math, Physics, Electronics), H. C. Ørsted Gymnasiet Lyngby, Aug 2015 - Jun 2019 <br>
+  - Higher Technical Examination Programme (HTX) (Math, Physics, Electronics), H. C. Ørsted Gymnasiet Lyngby, Aug 2015 - Jun 2019 <br>
   - Computer Science AP, KEA, Aug 2020 - Jan 2023 <br>
 
 __Current Education:__ Software Development, KEA, Jan 2023 - Jun 2024 <br>
