@@ -5,9 +5,8 @@ __Gender:__ Male :male_sign: <br>
 __Birthday:__ 9th August 1998 (09-08-1998) (Gen-Z aka Zoomer) <br>
 __Zodiac:__ Leo :leo: <br>
 __City:__ Kongens Lyngby (Greater Copenhagen) <br>
-__Country:__ Denmark :denmark: (DK) <br>
+__Country:__ Denmark :denmark: (DK) <!--<br>
 <br>
-<!--
 [Education](https://github.com/thorminathor4/thorminathor4/edit/main/README.md#Education)
 [Experience](https://github.com/thorminathor4/thorminathor4/edit/main/README.md#Experience)
 [Hobbies](https://github.com/thorminathor4/thorminathor4/edit/main/README.md#Hobbies)
