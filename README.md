@@ -1,7 +1,7 @@
-# Thor Find Andersen
-__Birthday:__ 9th August 1998 (09-08-1998) <br>
+# Thor Find Andersen :male_sign: :leo: :computer: :musical_note:
+__Birthday:__ 9th August 1998 (09-08-1998) (Gen-Z aka Zoomer)<br>
 __City:__ Kongens Lyngby (Greater Copenhagen) <br>
-__Country:__ Denmark :dk: (DK)<br>
+__Country:__ Denmark :denmark: (DK)<br>
 __School:__ KEA (Københavns Erhvervs Akademi) <br>
 __Completed__ Educations: Computer Science AP, KEA, Aug 2020 - Jan 2023 <br>
 __Current Education:__ Software Development, KEA, Jan 2023 - Jun 2024 <br>
