@@ -1,8 +1,9 @@
-# Thor Find Andersen   :computer: :musical_note:
+
+# Thor Find Andersen :computer:
+
 __Gender:__ Male :male_sign: <br>
 __Birthday:__ 9th August 1998 (09-08-1998) (Gen-Z aka Zoomer) <br>
-- __Zodiac:__ Leo :leo:
-
+__Zodiac:__ Leo :leo: <br>
 __City:__ Kongens Lyngby (Greater Copenhagen) <br>
 __Country:__ Denmark :denmark: (DK) <br>
 
@@ -30,3 +31,6 @@ __Intermediate:__
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+## Hobbies
+- Music Production :musical_note:
