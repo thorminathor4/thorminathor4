@@ -18,7 +18,7 @@ __Country:__ Denmark :denmark: (DK) <!--<br>
 __Levels:__ Beginner, Advanced Beginner, Intermediate, Advanced, Expert
 
 ### Operating Systems:
-- __Experienced:__ <br>
+- __Advanced:__ <br>
   __![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)__
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
