@@ -2,9 +2,7 @@
 # Thor Find Andersen :computer:
 
 __Gender:__ Male :male_sign: <br>
-__Birthday:__ 9th August 1998 (09-08-1998) <br>
-__Generation:__ Gen-Z aka Zoomer <br>
-__Zodiac:__ Leo :leo: <br>
+__Birthday:__ August 9th, 1998 (09-08-1998) <br>
 __City:__ Kongens Lyngby (Copenhagen) <br>
 __Country:__ Denmark :denmark: (DK) <!--<br>
 <br>
@@ -15,7 +13,7 @@ __Country:__ Denmark :denmark: (DK) <!--<br>
 -->
 
 ## Experience
-__Levels:__ Beginner, Advanced Beginner, Intermediate, Advanced, Expert
+__Levels:__ Beginner, Intermediate, Advanced
 
 ### Operating Systems:
 - __Advanced:__ <br>
@@ -88,10 +86,11 @@ __Levels:__ Beginner, Advanced Beginner, Intermediate, Advanced, Expert
     - School: KEA (Københavns Erhvervs Akademi)
     - When: Aug 2020 - Jan 2023
 
-### Current Education:
+<!-- ### Current Education:
   - __Bachelor in Computer Science__
     - School: KU (Københavns Universitet)
-    - When: Aug 2024 - Jun 2027
+    - When: Aug 2024 - Jun 2027 -->
 
 ## Hobbies
 - Music Production :musical_note:
+- Hobby Programming :computer:
